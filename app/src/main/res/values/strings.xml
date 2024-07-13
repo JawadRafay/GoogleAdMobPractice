@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleAdMob</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="native_id">ca-app-pub-3940256099942544/2247696110</string>
+</resources>
